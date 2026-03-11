@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.jpg
+*.txt
+*.html
+*.svg
+logs/
+obj/
